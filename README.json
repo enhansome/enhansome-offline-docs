@@ -1,0 +1,322 @@
+{
+  "items": [
+    {
+      "description": "Learning or working on a new language/framework/library often requires referring to the official docs multiple times. With the rise of Static Site Generation (SSG) many documentation sites are now open-source and can be built for offline usage. This project aims to collect all such projects and the build commands to have a knowledge of widely used SSG tools.",
+      "items": [],
+      "title": "But why? / Motivation"
+    },
+    {
+      "description": "Please refer to CONTRIBUTING.md",
+      "items": [],
+      "title": "How to contribute"
+    },
+    {
+      "description": "Open an issue with as detailed error messages as possible.",
+      "items": [],
+      "title": "How to complain about faulty scripts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Disclaimer"
+    },
+    {
+      "description": "Website - https://expressjs.com\nSource code repo - https://github.com/expressjs/expressjs.com\nFast, unopinionated, minimalist web framework for Node.js\nLast tested on: 2023-10-30",
+      "items": [],
+      "title": "expressjs"
+    },
+    {
+      "description": "Website - https://nodejs.org/en/\nSource code repo - https://github.com/nodejs/node\nJavascript runtime built on Chrome's V8 JavaScript engine\nLast tested on: 2023-10-30\nTools, projects, frameworks related to blockchain development",
+      "items": [],
+      "title": "nodejs"
+    },
+    {
+      "description": "Website - https://ethereum.org/en/\nSource code repo - https://github.com/ethereum/ethereum-org-website\nEthereum is a technology that's home to digital money, global payments, and applications.\nLast tested on: 2023-10-30 (unable to completely build)",
+      "items": [],
+      "title": "ethereum"
+    },
+    {
+      "description": "Website - https://hardhat.org\nSource code repo - https://github.com/NomicFoundation/hardhat\nEthereum development environment for professionals.\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "hardhat"
+    },
+    {
+      "description": "Website - https://maticnetwork.github.io/matic.js/\nSource code repo - https://github.com/maticnetwork/matic.js\nThe @matic.js is a javascript library which helps in interacting with the various components of Matic Network.",
+      "items": [],
+      "title": "matic.js"
+    },
+    {
+      "description": "Website - https://wiki.polygon.technology/\nSource code repo - https://github.com/0xPolygon/wiki\nThe official documentation for 0xPolygon\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "polygon (matic)"
+    },
+    {
+      "description": "Website - https://docs.soliditylang.org/en/v0.8.13/\nSource code repo - https://github.com/ethereum/solidity\nSolidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.",
+      "items": [],
+      "title": "solidity"
+    },
+    {
+      "description": "Website - https://getwaffle.io\nSource code repo - https://github.com/EthWorks/Waffle\nThe most advanced framework for testing smart contracts. Sweeter, simpler and faster.",
+      "items": [],
+      "title": "waffle"
+    },
+    {
+      "description": "Website - https://docs.astro.build\nSource code repo - https://github.com/withastro/docs\nAstro is an all-in-one web framework for building fast, content-focused websites\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "Astro"
+    },
+    {
+      "description": "Website - https://vitejs.dev\nSource code repo - https://github.com/vitejs/vite\nvite: Next Generation Frontend Tooling\nLast tested on: 2023-11-03\nTools useful for development of crossplatform apps",
+      "items": [],
+      "title": "vite"
+    },
+    {
+      "description": "Website - https://www.electronjs.org/\nSource code repo - https://github.com/electron/electronjs.org-new\nBuild cross-platform desktop apps with JavaScript, HTML, and CSS\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "Electron"
+    },
+    {
+      "description": "Website - https://react-native.dev\nSource code repo - https://github.com/facebook/react-native-website\nCreate native apps for Android and iOS using React\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "React Native"
+    },
+    {
+      "description": "Website - https://tauri.studio/\nSource code repo - https://github.com/tauri-apps/tauri-docs\nBuild smaller, faster, and more secure desktop applications with a web frontend\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "tauri"
+    },
+    {
+      "description": "Website - https://getbootstrap.com/\nSource code repo - https://github.com/twbs/bootstrap\nThe most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "bootstrap 5"
+    },
+    {
+      "description": "Website - https://daisyui.com\nSource code repo - https://github.com/saadeghi/daisyui\nThe most popular, free and open-source Tailwind CSS component library\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "daisyui"
+    },
+    {
+      "description": "Website - https://mui.com\nSource code repo - https://github.com/mui/material-ui/\nMUI offers a comprehensive suite of UI tools to help you ship new features faster.\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "material ui"
+    },
+    {
+      "description": "Website - https://maticnetwork.github.io/polygonmesh\nSource code repo - https://github.com/maticnetwork/polygonmesh\nPolygonMesh is an open-source design system crafted meticulously by the designers and developer at Polygon Technology.",
+      "items": [],
+      "title": "polygonmesh"
+    },
+    {
+      "description": "Website - https://storybook.js.org\nSource code repo - https://github.com/storybookjs/frontpage\nStorybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.\nLast tested on: 2022-05-07",
+      "items": [],
+      "title": "storybook"
+    },
+    {
+      "description": "Website - https://tailwindcss.com\nSource code repo - https://github.com/tailwindlabs/tailwindcss.com\nRapidly build modern websites without ever leaving your HTML. tailwindcss is a utility first CSS framework.\nLast tested on: 2023-11-03",
+      "items": [],
+      "title": "tailwindcss"
+    },
+    {
+      "description": "Website - https://windicss.org\nSource code repo - https://github.com/windicss/docs\nNext generation utility-first CSS framework.\nLast tested on: 2022-04-19",
+      "items": [],
+      "title": "windicss"
+    },
+    {
+      "description": "Website - https://angular.io\nSource code repo - https://github.com/angular/angular\nThe modern web developer's platform for developing single page apps\nLast tested on: 2022-10-11",
+      "items": [],
+      "title": "angular.io"
+    },
+    {
+      "description": "Website - https://axios-http.com\nSource code repo - https://github.com/axios/axios-docs\nPromise based HTTP client for the browser and node.js\nLast tested on: 2022-05-21",
+      "items": [],
+      "title": "axios"
+    },
+    {
+      "description": "Website - https://material.angular.io/\nSource code repo - https://github.com/angular/material.angular.io\nAngular Material is a User Interface (UI) component library that developers can use in their Angular projects to speed up the development of elegant and consistent user interfaces.\nLast tested on: 2022-10-11",
+      "items": [],
+      "title": "Material Angular"
+    },
+    {
+      "description": "Website - https://react-redux.js.org/\nSource code repo - https://github.com/reduxjs/react-redux\nOfficial React bindings for Redux\nLast tested on: 2022-04-30",
+      "items": [],
+      "title": "react-redux"
+    },
+    {
+      "description": "Website - https://reactjs.org\nSource code repo - https://github.com/reactjs/reactjs.org\nDo you really need an introduction to reactjs?\nLast tested on: 2022-04-15",
+      "items": [],
+      "title": "reactjs"
+    },
+    {
+      "description": "Website - https://redux.js.org/\nSource code repo - https://github.com/reduxjs/redux\nRedux is a predictable state container for JavaScript apps.\nLast tested on: 2022-04-29",
+      "items": [],
+      "title": "redux"
+    },
+    {
+      "description": "Website - https://redux-toolkit.js.org/\nSource code repo - https://github.com/reduxjs/redux-toolkit\nThe official, opinionated, batteries-included toolset for efficient Redux development.\nLast tested on: 2022-04-30",
+      "items": [],
+      "title": "redux toolkit"
+    },
+    {
+      "description": "Website - https://rxjs.dev\nSource code repo - https://github.com/ReactiveX/rxjs\nReactive Extensions Library for Javascript\nLast tested on: 2022-09-15",
+      "items": [],
+      "title": "RxJS"
+    },
+    {
+      "description": "Website - https://v3.vuejs.org\nSource code repo - https://github.com/vuejs/docs\nThe Progressive JavaScript Framework. An approachable, performant and versatile framework for building web user interfaces.\nLast tested on: 2022-04-15",
+      "items": [],
+      "title": "vuejs V3"
+    },
+    {
+      "description": "Website - https://www.chaijs.com/\nSource code repo - https://github.com/chaijs/chaijs.github.io\nChai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.\nLast tested on: 2022-04-15",
+      "items": [],
+      "title": "chaijs"
+    },
+    {
+      "description": "Website - https://jestjs.io\nSource code repo - https://github.com/facebook/jest\nJest is delightful Javascript Testing Framework with a focus on simplicity\nLast tested on: 2022-10-15",
+      "items": [],
+      "title": "jest"
+    },
+    {
+      "description": "Website - https://mochajs.org\nSource code repo - https://github.com/mochajs/mocha\nMocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.\nLast tested on: 2022-04-15",
+      "items": [],
+      "title": "mochajs"
+    },
+    {
+      "description": "Website - https://playwright.dev/\nSource code repo - https://github.com/microsoft/playwright.dev\nReliable end-to-end testing for modern web apps\nLast tested on: 2022-07-03\nUseful libraries for learning Machine Learning",
+      "items": [],
+      "title": "playwright.dev"
+    },
+    {
+      "description": "Website - https://keras.io\nSource code repo - https://github.com/keras-team/keras-io\nSimple. Flexible. Powerful. Deep learning for humans.\nLast tested on: 2022-05-23",
+      "items": [],
+      "title": "keras"
+    },
+    {
+      "description": "Website - https://numpy.org/\nSource code repo - https://github.com/numpy/numpy\nThe fundamental package for scientific computing with Python",
+      "items": [],
+      "title": "numpy"
+    },
+    {
+      "description": "Website - https://numpy.org/numpy-tutorials/\nSource code repo - https://github.com/numpy/numpy-tutorials\nSet of tutorials and educational materials to learn numpy\nLast tested on: 2022-05-10",
+      "items": [],
+      "title": "numpy-tutorials"
+    },
+    {
+      "description": "Website - https://pandas.pydata.org\nSource code repo - https://github.com/pandas-dev/pandas\npandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language",
+      "items": [],
+      "title": "pandas"
+    },
+    {
+      "description": "Website - https://scipy-cookbook.readthedocs.io\nSource code repo - https://github.com/scipy/scipy-cookbook\nCollection of various uses-contributed recipes to learn scipy",
+      "items": [],
+      "title": "scipy cookbook"
+    },
+    {
+      "description": "Website - https://scipy.github.io/devdocs\nSource code repo - https://github.com/scipy/devdocs\nSciPy documentation",
+      "items": [],
+      "title": "scipy devdocs"
+    },
+    {
+      "description": "Website - https://scipy.org/\nSource code repo - https://github.com/scipy/scipy.org\nFundamental algorithms for scientific computing in Python\nLast tested on: 2022-05-18\nOfficial & useful resources to start learning a new programming language",
+      "items": [],
+      "title": "scipy.org website"
+    },
+    {
+      "description": "Website - https://gobyexample.com\nSource code repo - https://github.com/mmcgrana/gobyexample\nA hands-on introduction to Go using annotated example programs\nLast tested on: 2022-09-16\nAll python related libraries",
+      "items": [],
+      "title": "gobyexample"
+    },
+    {
+      "description": "Website - https://pydantic-docs.helpmanual.io/\nSource code repo - https://github.com/samuelcolvin/pydantic\npydantic enforces type hints at runtime, and provides user friendly errors when data is invalid.\nLast tested on: 2022-04-23",
+      "items": [],
+      "title": "pydantic"
+    },
+    {
+      "description": "Website - https://requests.readthedocs.io/en/latest/\nSource code repo - https://github.com/psf/requests\nRequests is an elegant and simple HTTP library for Python, built for human beings.",
+      "items": [],
+      "title": "requests"
+    },
+    {
+      "description": "Website - https://www.sqlalchemy.org/\nSource code repo - https://github.com/sqlalchemy/sqlalchemy\nSQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.",
+      "items": [],
+      "title": "sqlalchemy"
+    },
+    {
+      "description": "Website - https://typer.tiangolo.com/\nSource code repo - https://github.com/tiangolo/typer\nTyper is a library for building CLI applications that users will love using and developers will love creating. Based on Python 3.6+ type hints.\nLast tested on: 2022-04-23\nWeb frameworks for python",
+      "items": [],
+      "title": "typer"
+    },
+    {
+      "description": "Website - https://bottlepy.org/docs/dev/\nSource code repo - https://github.com/bottlepy/bottle\nBottle is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.",
+      "items": [],
+      "title": "bottle"
+    },
+    {
+      "description": "Website - https://www.djangoproject.com/\nSource code repo - https://github.com/django/django\nThe web framework for perfectionists with deadlines. Django makes it easier to build better web apps more quickly and with less code.",
+      "items": [],
+      "title": "django"
+    },
+    {
+      "description": "Website - https://fastapi.tiangolo.com/\nSource code repo - https://github.com/tiangolo/fastapi\nFastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.\nLast tested on: 2022-04-23",
+      "items": [],
+      "title": "fastapi"
+    },
+    {
+      "description": "Website - https://flask.palletsprojects.com/en/2.1.x/\nSource code repo - https://github.com/pallets/flask\nFlask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.\nLast tested on: 2022-05-25\nFrameworks like nextjs, nuxtjs used for generating static sites",
+      "items": [],
+      "title": "flask"
+    },
+    {
+      "description": "Website - https://docusaurus.io\nSource code repo - https://github.com/facebook/docusaurus\nBuild optimized websites quickly, focus on your content\nLast tested on: 2022-10-15",
+      "items": [],
+      "title": "Docusaurus"
+    },
+    {
+      "description": "Website - https://nuxtjs.org\nSource code repo - https://github.com/nuxt/nuxtjs.org\nThe Intuitive Vue Framework. Build your next Vue.js application with confidence using Nuxt. An open source framework making web development simple and powerful.\nLast tested on: 2022-04-29",
+      "items": [],
+      "title": "Nuxtjs"
+    },
+    {
+      "description": "Website - https://v3.nuxtjs.org\nSource code repo - https://github.com/nuxt/framework\nThe Intuitive Vue Framework. Build your next Vue.js application with confidence using Nuxt. An open source framework making web development simple and powerful.\nLast tested on: 2022-04-29",
+      "items": [],
+      "title": "Nuxtjs V3"
+    },
+    {
+      "description": "Website - https://vitepress.vuejs.org/\nSource code repo - https://github.com/vuejs/vitepress\nVite & Vue Powered Static Site Generator\nLast tested on: 2022-06-06\nAll other uncategorized tools",
+      "items": [],
+      "title": "vitepress"
+    },
+    {
+      "description": "Website - https://eslint.org\nSource code repo - https://github.com/eslint/website\nFind and fix problems in your JavaScript code\nLast tested on: 2022-04-15",
+      "items": [],
+      "title": "eslint"
+    },
+    {
+      "description": "Website - https://developer.mozilla.org\nSource code repo - https://github.com/mdn/content\nResources for Developers, by developers\nLast tested on: 2022-09-17",
+      "items": [],
+      "title": "Mozilla Developer Network"
+    },
+    {
+      "description": "Website - https://prettier.io\nSource code repo - https://github.com/prettier/prettier\nOpinionated code formatter\nLast tested on: 2022-04-23",
+      "items": [],
+      "title": "prettier"
+    },
+    {
+      "description": "Website - https://www.typescriptlang.org/\nSource code repo - https://github.com/microsoft/TypeScript-Website\nTypeScript is JavaScript with syntax for types.\nLast tested on: 2022-04-23",
+      "items": [],
+      "title": "typescript"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "© Naveen Namani"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:26:37.004Z",
+    "original_repository": "naveennamani/offline-docs",
+    "original_repository_sha": "9769945ae5e83a416438e94acbd10cf2d6720b2d",
+    "enhanced_repository": "enhansome/enhansome-offline-docs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Offline-docs with stars"
+  }
+}
