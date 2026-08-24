@@ -1,7 +1,142 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Tools, projects, frameworks related to blockchain development",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Github pages",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 145852835,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-21T16:02:42Z",
+                    "owner": "0xPolygon",
+                    "repo": "matic.js",
+                    "stars": 563
+                  }
+                }
+              ],
+              "description": "Last tested on: 2023-11-03\nRequires node v14",
+              "node_type": "group",
+              "title": "Direct links"
+            }
+          ],
+          "description": "Website - https://maticnetwork.github.io/matic.js/\nSource code repo - https://github.com/maticnetwork/matic.js\nThe @matic.js is a javascript library which helps in interacting with the various components of Matic Network.",
+          "node_type": "group",
+          "title": "matic.js"
+        }
+      ],
+      "title": "Blockchain"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Github pages",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 427314184,
+                    "language": "SCSS",
+                    "last_commit": "2022-01-21T07:42:57Z",
+                    "owner": "maticnetwork",
+                    "repo": "polygonmesh",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": "Last tested on: 2023-11-03\nRequires node v14",
+              "node_type": "group",
+              "title": "Direct links"
+            }
+          ],
+          "description": "Website - https://maticnetwork.github.io/polygonmesh\nSource code repo - https://github.com/maticnetwork/polygonmesh\nPolygonMesh is an open-source design system crafted meticulously by the designers and developer at Polygon Technology.",
+          "node_type": "group",
+          "title": "polygonmesh"
+        }
+      ],
+      "title": "CSS frameworks/libraries"
+    },
+    {
+      "description": "Useful libraries for learning Machine Learning",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Workflow artifacts",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 858127,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T07:25:54Z",
+                    "owner": "pandas-dev",
+                    "repo": "pandas",
+                    "stars": 49559
+                  }
+                }
+              ],
+              "description": "Last tested on: 2022-05-24\npandas uploads the contents of the website as artifacts of docbuild-and-upload workflow. Setting up conda environment and running all those commands is honestly an overkill. Just go to the workflow page, pick a latest successful workflow run and download the artifact. Serve using for best results",
+              "node_type": "group",
+              "title": "Direct links"
+            }
+          ],
+          "description": "Website - https://pandas.pydata.org\nSource code repo - https://github.com/pandas-dev/pandas\npandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language",
+          "node_type": "group",
+          "title": "pandas"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "github pages",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44447229,
+                    "language": "HTML",
+                    "last_commit": "2026-08-24T07:08:48Z",
+                    "owner": "scipy",
+                    "repo": "devdocs",
+                    "stars": 11
+                  }
+                }
+              ],
+              "description": "Last tested on: 2022-05-18\nWorks well when served using",
+              "node_type": "group",
+              "title": "Direct links"
+            }
+          ],
+          "description": "Website - https://scipy.github.io/devdocs\nSource code repo - https://github.com/scipy/devdocs\nSciPy documentation",
+          "node_type": "group",
+          "title": "scipy devdocs"
+        }
+      ],
+      "title": "Machine learning"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:44:58.322Z",
+    "last_updated": "2026-08-24T14:37:01.338Z",
     "original_repository": "naveennamani/offline-docs",
     "original_repository_id": 482317688,
     "original_repository_sha": "9769945ae5e83a416438e94acbd10cf2d6720b2d",
