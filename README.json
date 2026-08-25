@@ -86,10 +86,10 @@
                     "archived": false,
                     "id": 858127,
                     "language": "Python",
-                    "last_commit": "2026-08-25T06:20:40Z",
+                    "last_commit": "2026-08-25T17:29:16Z",
                     "owner": "pandas-dev",
                     "repo": "pandas",
-                    "stars": 49560
+                    "stars": 49559
                   }
                 }
               ],
@@ -115,7 +115,7 @@
                     "archived": false,
                     "id": 44447229,
                     "language": "HTML",
-                    "last_commit": "2026-08-24T23:14:47Z",
+                    "last_commit": "2026-08-25T09:50:42Z",
                     "owner": "scipy",
                     "repo": "devdocs",
                     "stars": 11
@@ -136,7 +136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:36.476Z",
+    "last_updated": "2026-08-25T17:55:24.242Z",
     "original_repository": "naveennamani/offline-docs",
     "original_repository_id": 482317688,
     "original_repository_sha": "9769945ae5e83a416438e94acbd10cf2d6720b2d",
