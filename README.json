@@ -86,10 +86,10 @@
                     "archived": false,
                     "id": 858127,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:38:36Z",
+                    "last_commit": "2026-08-28T00:39:32Z",
                     "owner": "pandas-dev",
                     "repo": "pandas",
-                    "stars": 49567
+                    "stars": 49576
                   }
                 }
               ],
@@ -115,7 +115,7 @@
                     "archived": false,
                     "id": 44447229,
                     "language": "HTML",
-                    "last_commit": "2026-08-26T13:39:41Z",
+                    "last_commit": "2026-08-27T23:50:09Z",
                     "owner": "scipy",
                     "repo": "devdocs",
                     "stars": 12
@@ -136,7 +136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:52.670Z",
+    "last_updated": "2026-08-28T01:35:49.713Z",
     "original_repository_info": {
       "archived": false,
       "id": 482317688,
