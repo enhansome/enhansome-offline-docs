@@ -14,12 +14,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Javascript developer library to interact with Matic Network",
+                    "homepage": "https://wiki.polygon.technology/docs/tools/matic-js/get-started/",
                     "id": 145852835,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-21T16:02:42Z",
+                    "open_issues": 21,
                     "owner": "0xPolygon",
                     "repo": "matic.js",
-                    "stars": 563
+                    "stars": 563,
+                    "topics": [
+                      "dapps",
+                      "ethereum",
+                      "matic",
+                      "maticnetwork",
+                      "polygon",
+                      "sidechain",
+                      "smart-contracts",
+                      "web3"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:05:04.857Z"
                 }
@@ -50,12 +64,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👋 PolygonMesh will help you build beautiful websites in no time. It is an open-source design system crafted meticulously by the designers and developer at Polygon Technology.",
+                    "homepage": "https://maticnetwork.github.io/polygonmesh/",
                     "id": 427314184,
                     "language": "SCSS",
+                    "license": "MIT",
                     "last_commit": "2022-01-21T07:42:57Z",
+                    "open_issues": 0,
                     "owner": "maticnetwork",
                     "repo": "polygonmesh",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:05:04.857Z"
                 }
@@ -86,12 +105,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+                    "homepage": "https://pandas.pydata.org",
                     "id": 858127,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-29T00:18:19Z",
+                    "open_issues": 2757,
                     "owner": "pandas-dev",
                     "repo": "pandas",
-                    "stars": 49586
+                    "stars": 49587,
+                    "topics": [
+                      "alignment",
+                      "data-analysis",
+                      "data-science",
+                      "flexible",
+                      "pandas",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:05:04.857Z"
                 }
@@ -116,12 +147,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scipy dev version docs, built automatically on Travis-CI",
+                    "homepage": "https://docs.scipy.org/doc/scipy-dev/reference/",
                     "id": 44447229,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2026-08-28T21:34:22Z",
+                    "open_issues": 0,
                     "owner": "scipy",
                     "repo": "devdocs",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:05:04.857Z"
                 }
@@ -140,15 +176,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:04.857Z",
+    "last_updated": "2026-08-29T04:57:30.449Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of scripts to build offline documentation for your favourite frameworks/libraries. Simply search, copy/paste the commands and enjoy.",
+      "homepage": "https://naveennamani.github.io/blog/2022/04/introducing-offline-docs",
       "id": 482317688,
       "language": "JavaScript",
+      "license": "GPL-3.0",
       "last_commit": "2023-11-03T12:14:24Z",
+      "open_issues": 0,
       "owner": "naveennamani",
       "repo": "offline-docs",
-      "stars": 132
+      "stars": 132,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "build-tool",
+        "documentation-generator",
+        "documentation-tool",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktoberfest-starter",
+        "javascript",
+        "offline-first",
+        "python",
+        "ssg",
+        "static-site-generator"
+      ]
     },
     "original_repository_sha": "9769945ae5e83a416438e94acbd10cf2d6720b2d",
     "enhanced_repository": "enhansome/enhansome-offline-docs",
