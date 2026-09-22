@@ -167,7 +167,7 @@ Last tested on: 2023-10-30
 
 Website - <https://nodejs.org/en/>
 
-Source code repo - <https://github.com/nodejs/node> ⭐ 122,031 | 🐛 1,190 | 🌐 JavaScript | 📅 2026-09-21
+Source code repo - <https://github.com/nodejs/node> ⭐ 122,039 | 🐛 1,184 | 🌐 JavaScript | 📅 2026-09-22
 
 Javascript runtime built on Chrome's V8 JavaScript engine
 
@@ -201,7 +201,7 @@ Tools, projects, frameworks related to blockchain development
 
 Website - <https://ethereum.org/en/>
 
-Source code repo - <https://github.com/ethereum/ethereum-org-website> ⭐ 5,968 | 🐛 191 | 🌐 Markdown | 📅 2026-09-21
+Source code repo - <https://github.com/ethereum/ethereum-org-website> ⭐ 5,968 | 🐛 193 | 🌐 Markdown | 📅 2026-09-22
 
 Ethereum is a technology that's home to digital money, global payments, and applications.
 
@@ -229,7 +229,7 @@ Last tested on: 2023-10-30 (unable to completely build)
 
 Website - <https://hardhat.org>
 
-Source code repo - <https://github.com/NomicFoundation/hardhat> ⭐ 8,508 | 🐛 615 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/NomicFoundation/hardhat> ⭐ 8,507 | 🐛 619 | 🌐 TypeScript | 📅 2026-09-22
 
 Ethereum development environment for professionals.
 
@@ -325,7 +325,7 @@ Last tested on: 2023-11-03
 
 Website - <https://docs.soliditylang.org/en/v0.8.13/>
 
-Source code repo - <https://github.com/ethereum/solidity> ⭐ 25,738 | 🐛 826 | 🌐 C++ | 📅 2026-09-21
+Source code repo - <https://github.com/ethereum/solidity> ⭐ 25,738 | 🐛 827 | 🌐 C++ | 📅 2026-09-22
 
 Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
 
@@ -396,7 +396,7 @@ Last tested on: 2023-11-03
 
 Website - <https://docs.astro.build>
 
-Source code repo - <https://github.com/withastro/docs> ⭐ 1,692 | 🐛 37 | 🌐 MDX | 📅 2026-09-21
+Source code repo - <https://github.com/withastro/docs> ⭐ 1,692 | 🐛 34 | 🌐 MDX | 📅 2026-09-22
 
 Astro is an all-in-one web framework for building fast, content-focused websites
 
@@ -422,7 +422,7 @@ Last tested on: 2023-11-03
 
 Website - <https://vitejs.dev>
 
-Source code repo - <https://github.com/vitejs/vite> ⭐ 82,935 | 🐛 794 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/vitejs/vite> ⭐ 82,948 | 🐛 793 | 🌐 TypeScript | 📅 2026-09-22
 
 vite: Next Generation Frontend Tooling
 
@@ -452,7 +452,7 @@ Tools useful for development of crossplatform apps
 
 Website - <https://www.electronjs.org/>
 
-Source code repo - <https://github.com/electron/electronjs.org-new> ⭐ 157 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/electron/electronjs.org-new> ⭐ 157 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-22
 
 Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -478,7 +478,7 @@ Last tested on: 2023-11-03
 
 Website - <https://react-native.dev>
 
-Source code repo - <https://github.com/facebook/react-native-website> ⭐ 2,160 | 🐛 100 | 🌐 MDX | 📅 2026-09-10
+Source code repo - <https://github.com/facebook/react-native-website> ⭐ 2,160 | 🐛 99 | 🌐 MDX | 📅 2026-09-22
 
 Create native apps for Android and iOS using React
 
@@ -506,7 +506,7 @@ Last tested on: 2023-11-03
 
 Website - <https://tauri.studio/>
 
-Source code repo - <https://github.com/tauri-apps/tauri-docs> ⭐ 1,138 | 🐛 156 | 🌐 MDX | 📅 2026-09-21
+Source code repo - <https://github.com/tauri-apps/tauri-docs> ⭐ 1,139 | 🐛 157 | 🌐 MDX | 📅 2026-09-22
 
 Build smaller, faster, and more secure desktop applications with a web frontend
 
@@ -534,7 +534,7 @@ Last tested on: 2023-11-03
 
 Website - <https://getbootstrap.com/>
 
-Source code repo - <https://github.com/twbs/bootstrap> ⭐ 174,888 | 🐛 239 | 🌐 MDX | 📅 2026-09-21
+Source code repo - <https://github.com/twbs/bootstrap> ⭐ 174,891 | 🐛 239 | 🌐 MDX | 📅 2026-09-22
 
 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -562,7 +562,7 @@ Last tested on: 2023-11-03
 
 Website - <https://daisyui.com>
 
-Source code repo - <https://github.com/saadeghi/daisyui> ⭐ 42,446 | 🐛 51 | 🌐 JavaScript | 📅 2026-09-21
+Source code repo - <https://github.com/saadeghi/daisyui> ⭐ 42,454 | 🐛 52 | 🌐 JavaScript | 📅 2026-09-21
 
 The most popular, free and open-source Tailwind CSS component library
 
@@ -590,7 +590,7 @@ Last tested on: 2023-11-03
 
 Website - <https://mui.com>
 
-Source code repo - <https://github.com/mui/material-ui/> ⭐ 99,073 | 🐛 1,475 | 🌐 JavaScript | 📅 2026-09-21
+Source code repo - <https://github.com/mui/material-ui/> ⭐ 99,084 | 🐛 1,457 | 🌐 JavaScript | 📅 2026-09-22
 
 MUI offers a comprehensive suite of UI tools to help you ship new features faster.
 
@@ -730,7 +730,7 @@ Last tested on: 2022-04-19
 
 Website - <https://angular.io>
 
-Source code repo - <https://github.com/angular/angular> ⭐ 101,023 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/angular/angular> ⭐ 101,021 | 🐛 1,176 | 🌐 TypeScript | 📅 2026-09-22
 
 The modern web developer's platform for developing single page apps
 
@@ -812,7 +812,7 @@ Last tested on: 2022-10-11
 
 Website - <https://react-redux.js.org/>
 
-Source code repo - <https://github.com/reduxjs/react-redux> ⭐ 23,429 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/reduxjs/react-redux> ⭐ 23,427 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-22
 
 Official React bindings for Redux
 
@@ -866,7 +866,7 @@ Last tested on: 2022-04-15
 
 Website - <https://redux.js.org/>
 
-Source code repo - <https://github.com/reduxjs/redux> ⭐ 61,491 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/reduxjs/redux> ⭐ 61,489 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22
 
 Redux is a predictable state container for JavaScript apps.
 
@@ -894,7 +894,7 @@ Last tested on: 2022-04-29
 
 Website - <https://redux-toolkit.js.org/>
 
-Source code repo - <https://github.com/reduxjs/redux-toolkit> ⭐ 11,225 | 🐛 275 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/reduxjs/redux-toolkit> ⭐ 11,224 | 🐛 276 | 🌐 TypeScript | 📅 2026-09-21
 
 The official, opinionated, batteries-included toolset for efficient Redux development.
 
@@ -922,7 +922,7 @@ Last tested on: 2022-04-30
 
 Website - <https://rxjs.dev>
 
-Source code repo - <https://github.com/ReactiveX/rxjs> ⭐ 31,704 | 🐛 187 | 🌐 TypeScript | 📅 2026-08-08
+Source code repo - <https://github.com/ReactiveX/rxjs> ⭐ 31,705 | 🐛 188 | 🌐 TypeScript | 📅 2026-08-08
 
 Reactive Extensions Library for Javascript
 
@@ -950,7 +950,7 @@ Last tested on: 2022-09-15
 
 Website - <https://v3.vuejs.org>
 
-Source code repo - <https://github.com/vuejs/docs> ⭐ 3,237 | 🐛 180 | 🌐 Vue | 📅 2026-09-21
+Source code repo - <https://github.com/vuejs/docs> ⭐ 3,237 | 🐛 179 | 🌐 Vue | 📅 2026-09-21
 
 The Progressive JavaScript Framework. An approachable, performant and versatile framework for building web user interfaces.
 
@@ -1008,7 +1008,7 @@ Last tested on: 2022-04-15
 
 Website - <https://jestjs.io>
 
-Source code repo - <https://github.com/facebook/jest> ⭐ 45,463 | 🐛 194 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/facebook/jest> ⭐ 45,463 | 🐛 199 | 🌐 TypeScript | 📅 2026-09-21
 
 Jest is delightful Javascript Testing Framework with a focus on simplicity
 
@@ -1038,7 +1038,7 @@ Last tested on: 2022-10-15
 
 Website - <https://mochajs.org>
 
-Source code repo - <https://github.com/mochajs/mocha> ⭐ 22,895 | 🐛 231 | 🌐 JavaScript | 📅 2026-09-21
+Source code repo - <https://github.com/mochajs/mocha> ⭐ 22,897 | 🐛 233 | 🌐 JavaScript | 📅 2026-09-22
 
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
 
@@ -1064,7 +1064,7 @@ Last tested on: 2022-04-15
 
 Website - <https://playwright.dev/>
 
-Source code repo - <https://github.com/microsoft/playwright.dev> ⭐ 190 | 🐛 27 | 🌐 MDX | 📅 2026-09-21
+Source code repo - <https://github.com/microsoft/playwright.dev> ⭐ 190 | 🐛 26 | 🌐 MDX | 📅 2026-09-21
 
 Reliable end-to-end testing for modern web apps
 
@@ -1094,7 +1094,7 @@ Useful libraries for learning Machine Learning
 
 Website - <https://keras.io>
 
-Source code repo - <https://github.com/keras-team/keras-io> ⭐ 3,004 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-09-03
+Source code repo - <https://github.com/keras-team/keras-io> ⭐ 3,005 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-09-03
 
 Simple. Flexible. Powerful. Deep learning for humans.
 
@@ -1122,7 +1122,7 @@ Last tested on: 2022-05-23
 
 Website - <https://numpy.org/>
 
-Source code repo - <https://github.com/numpy/numpy> ⭐ 32,798 | 🐛 2,284 | 🌐 Python | 📅 2026-09-21
+Source code repo - <https://github.com/numpy/numpy> ⭐ 32,808 | 🐛 2,276 | 🌐 Python | 📅 2026-09-22
 
 The fundamental package for scientific computing with Python
 
@@ -1188,7 +1188,7 @@ Last tested on: 2022-05-10
 
 Website - <https://pandas.pydata.org>
 
-Source code repo - <https://github.com/pandas-dev/pandas> ⭐ 49,776 | 🐛 2,655 | 🌐 Python | 📅 2026-09-21
+Source code repo - <https://github.com/pandas-dev/pandas> ⭐ 49,780 | 🐛 2,644 | 🌐 Python | 📅 2026-09-22
 
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
 
@@ -1201,7 +1201,7 @@ tar czf "pandas.tar.gz" ./
 
 ### Direct links
 
-* [Workflow artifacts](https://github.com/pandas-dev/pandas/actions/workflows/docbuild-and-upload.yml) ⭐ 49,776 | 🐛 2,655 | 🌐 Python | 📅 2026-09-21
+* [Workflow artifacts](https://github.com/pandas-dev/pandas/actions/workflows/docbuild-and-upload.yml) ⭐ 49,780 | 🐛 2,644 | 🌐 Python | 📅 2026-09-22
 * [Latest PDF](https://pandas.pydata.org/docs/pandas.pdf)
 * [pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
@@ -1350,7 +1350,7 @@ All python related libraries
 
 Website - <https://pydantic-docs.helpmanual.io/>
 
-Source code repo - <https://github.com/samuelcolvin/pydantic> ⭐ 28,844 | 🐛 583 | 🌐 Python | 📅 2026-09-18
+Source code repo - <https://github.com/samuelcolvin/pydantic> ⭐ 28,849 | 🐛 585 | 🌐 Python | 📅 2026-09-18
 
 pydantic enforces type hints at runtime, and provides user friendly errors when data is invalid.
 
@@ -1415,7 +1415,7 @@ Last tested on: 2022-06-23
 
 Website - <https://www.sqlalchemy.org/>
 
-Source code repo - <https://github.com/sqlalchemy/sqlalchemy> ⭐ 12,171 | 🐛 209 | 🌐 Python | 📅 2026-09-21
+Source code repo - <https://github.com/sqlalchemy/sqlalchemy> ⭐ 12,173 | 🐛 211 | 🌐 Python | 📅 2026-09-21
 
 SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
@@ -1448,7 +1448,7 @@ Last tested on: 2022-05-28
 
 Website - <https://typer.tiangolo.com/>
 
-Source code repo - <https://github.com/tiangolo/typer> ⭐ 20,006 | 🐛 48 | 🌐 Python | 📅 2026-09-19
+Source code repo - <https://github.com/tiangolo/typer> ⭐ 20,009 | 🐛 48 | 🌐 Python | 📅 2026-09-19
 
 Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python 3.6+ type hints.
 
@@ -1479,7 +1479,7 @@ Web frameworks for python
 
 Website - <https://bottlepy.org/docs/dev/>
 
-Source code repo - <https://github.com/bottlepy/bottle> ⭐ 8,789 | 🐛 290 | 🌐 Python | 📅 2026-09-18
+Source code repo - <https://github.com/bottlepy/bottle> ⭐ 8,790 | 🐛 290 | 🌐 Python | 📅 2026-09-18
 
 Bottle is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
 
@@ -1509,7 +1509,7 @@ Last tested on: 2022-05-25
 
 Website - <https://www.djangoproject.com/>
 
-Source code repo - <https://github.com/django/django> ⭐ 91,149 | 🐛 505 | 🌐 Python | 📅 2026-09-20
+Source code repo - <https://github.com/django/django> ⭐ 91,159 | 🐛 509 | 🌐 Python | 📅 2026-09-20
 
 The web framework for perfectionists with deadlines. Django makes it easier to build better web apps more quickly and with less code.
 
@@ -1543,7 +1543,7 @@ Last tested on: 2022-05-25
 
 Website - <https://fastapi.tiangolo.com/>
 
-Source code repo - <https://github.com/tiangolo/fastapi> ⭐ 102,510 | 🐛 82 | 🌐 Python | 📅 2026-09-18
+Source code repo - <https://github.com/tiangolo/fastapi> ⭐ 102,538 | 🐛 82 | 🌐 Python | 📅 2026-09-18
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
@@ -1570,7 +1570,7 @@ Last tested on: 2022-04-23
 
 Website - <https://flask.palletsprojects.com/en/2.1.x/>
 
-Source code repo - <https://github.com/pallets/flask> ⭐ 74,759 | 🐛 4 | 🌐 Python | 📅 2026-09-08
+Source code repo - <https://github.com/pallets/flask> ⭐ 74,767 | 🐛 4 | 🌐 Python | 📅 2026-09-08
 
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 
@@ -1603,7 +1603,7 @@ Frameworks like nextjs, nuxtjs used for generating static sites
 
 Website - <https://docusaurus.io>
 
-Source code repo - <https://github.com/facebook/docusaurus> ⭐ 66,311 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-21
+Source code repo - <https://github.com/facebook/docusaurus> ⭐ 66,319 | 🐛 395 | 🌐 TypeScript | 📅 2026-09-22
 
 Build optimized websites quickly, focus on your content
 
@@ -1631,7 +1631,7 @@ Last tested on: 2022-10-15
 
 Website - <https://nuxtjs.org>
 
-Source code repo - <https://github.com/nuxt/nuxtjs.org> ⭐ 2,240 | 🐛 117 | 🌐 Vue | 📅 2026-09-18
+Source code repo - <https://github.com/nuxt/nuxtjs.org> ⭐ 2,240 | 🐛 117 | 🌐 Vue | 📅 2026-09-22
 
 The Intuitive Vue Framework. Build your next Vue.js application with confidence using Nuxt. An open source framework making web development simple and powerful.
 
@@ -1689,7 +1689,7 @@ Last tested on: 2022-04-29
 
 Website - <https://vitepress.vuejs.org/>
 
-Source code repo - <https://github.com/vuejs/vitepress> ⭐ 18,340 | 🐛 319 | 🌐 TypeScript | 📅 2026-09-13
+Source code repo - <https://github.com/vuejs/vitepress> ⭐ 18,343 | 🐛 311 | 🌐 TypeScript | 📅 2026-09-22
 
 Vite & Vue Powered Static Site Generator
 
@@ -1745,7 +1745,7 @@ Last tested on: 2022-04-15
 
 Website - <https://developer.mozilla.org>
 
-Source code repo - <https://github.com/mdn/content> ⭐ 11,008 | 🐛 387 | 🌐 Markdown | 📅 2026-09-21
+Source code repo - <https://github.com/mdn/content> ⭐ 11,009 | 🐛 375 | 🌐 Markdown | 📅 2026-09-22
 
 Resources for Developers, by developers
 
@@ -1774,7 +1774,7 @@ Last tested on: 2022-09-17
 
 Website - <https://prettier.io>
 
-Source code repo - <https://github.com/prettier/prettier> ⭐ 52,287 | 🐛 1,439 | 🌐 JavaScript | 📅 2026-09-21
+Source code repo - <https://github.com/prettier/prettier> ⭐ 52,296 | 🐛 1,445 | 🌐 JavaScript | 📅 2026-09-22
 
 Opinionated code formatter
 
@@ -1800,7 +1800,7 @@ Last tested on: 2022-04-23
 
 Website - <https://www.typescriptlang.org/>
 
-Source code repo - <https://github.com/microsoft/TypeScript-Website> ⭐ 2,556 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-18
+Source code repo - <https://github.com/microsoft/TypeScript-Website> ⭐ 2,556 | 🐛 213 | 🌐 TypeScript | 📅 2026-09-22
 
 TypeScript is JavaScript with syntax for types.
 
@@ -1838,4 +1838,4 @@ Follow me on [dev.to/naveennamani](https://dev.to/naveennamani).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
