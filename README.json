@@ -110,11 +110,11 @@
                     "id": 858127,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-27T19:14:51Z",
-                    "open_issues": 2554,
+                    "last_commit": "2026-09-28T22:29:44Z",
+                    "open_issues": 2510,
                     "owner": "pandas-dev",
                     "repo": "pandas",
-                    "stars": 49848,
+                    "stars": 49859,
                     "topics": [
                       "alignment",
                       "data-analysis",
@@ -152,7 +152,7 @@
                     "id": 44447229,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-09-27T18:38:27Z",
+                    "last_commit": "2026-09-28T16:03:54Z",
                     "open_issues": 0,
                     "owner": "scipy",
                     "repo": "devdocs",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:17:00.474Z",
+    "last_updated": "2026-09-28T22:36:17.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of scripts to build offline documentation for your favourite frameworks/libraries. Simply search, copy/paste the commands and enjoy.",
