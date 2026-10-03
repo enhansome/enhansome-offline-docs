@@ -167,7 +167,7 @@ Last tested on: 2023-10-30
 
 Website - <https://nodejs.org/en/>
 
-Source code repo - <https://github.com/nodejs/node> ⭐ 122,225 | 🐛 1,171 | 🌐 JavaScript | 📅 2026-10-02
+Source code repo - <https://github.com/nodejs/node> ⭐ 122,227 | 🐛 1,174 | 🌐 JavaScript | 📅 2026-10-02
 
 Javascript runtime built on Chrome's V8 JavaScript engine
 
@@ -396,7 +396,7 @@ Last tested on: 2023-11-03
 
 Website - <https://docs.astro.build>
 
-Source code repo - <https://github.com/withastro/docs> ⭐ 1,691 | 🐛 42 | 🌐 MDX | 📅 2026-10-02
+Source code repo - <https://github.com/withastro/docs> ⭐ 1,691 | 🐛 44 | 🌐 MDX | 📅 2026-10-02
 
 Astro is an all-in-one web framework for building fast, content-focused websites
 
@@ -422,7 +422,7 @@ Last tested on: 2023-11-03
 
 Website - <https://vitejs.dev>
 
-Source code repo - <https://github.com/vitejs/vite> ⭐ 83,100 | 🐛 764 | 🌐 TypeScript | 📅 2026-10-02
+Source code repo - <https://github.com/vitejs/vite> ⭐ 83,101 | 🐛 765 | 🌐 TypeScript | 📅 2026-10-02
 
 vite: Next Generation Frontend Tooling
 
@@ -452,7 +452,7 @@ Tools useful for development of crossplatform apps
 
 Website - <https://www.electronjs.org/>
 
-Source code repo - <https://github.com/electron/electronjs.org-new> ⭐ 158 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-30
+Source code repo - <https://github.com/electron/electronjs.org-new> ⭐ 159 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-30
 
 Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -506,7 +506,7 @@ Last tested on: 2023-11-03
 
 Website - <https://tauri.studio/>
 
-Source code repo - <https://github.com/tauri-apps/tauri-docs> ⭐ 1,141 | 🐛 163 | 🌐 MDX | 📅 2026-10-02
+Source code repo - <https://github.com/tauri-apps/tauri-docs> ⭐ 1,141 | 🐛 162 | 🌐 MDX | 📅 2026-10-03
 
 Build smaller, faster, and more secure desktop applications with a web frontend
 
@@ -534,7 +534,7 @@ Last tested on: 2023-11-03
 
 Website - <https://getbootstrap.com/>
 
-Source code repo - <https://github.com/twbs/bootstrap> ⭐ 174,975 | 🐛 229 | 🌐 MDX | 📅 2026-10-01
+Source code repo - <https://github.com/twbs/bootstrap> ⭐ 174,984 | 🐛 229 | 🌐 MDX | 📅 2026-10-01
 
 The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -562,7 +562,7 @@ Last tested on: 2023-11-03
 
 Website - <https://daisyui.com>
 
-Source code repo - <https://github.com/saadeghi/daisyui> ⭐ 42,525 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-30
+Source code repo - <https://github.com/saadeghi/daisyui> ⭐ 42,527 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-30
 
 The most popular, free and open-source Tailwind CSS component library
 
@@ -590,7 +590,7 @@ Last tested on: 2023-11-03
 
 Website - <https://mui.com>
 
-Source code repo - <https://github.com/mui/material-ui/> ⭐ 99,124 | 🐛 1,472 | 🌐 JavaScript | 📅 2026-10-02
+Source code repo - <https://github.com/mui/material-ui/> ⭐ 99,124 | 🐛 1,473 | 🌐 JavaScript | 📅 2026-10-03
 
 MUI offers a comprehensive suite of UI tools to help you ship new features faster.
 
@@ -730,7 +730,7 @@ Last tested on: 2022-04-19
 
 Website - <https://angular.io>
 
-Source code repo - <https://github.com/angular/angular> ⭐ 101,010 | 🐛 1,134 | 🌐 TypeScript | 📅 2026-10-02
+Source code repo - <https://github.com/angular/angular> ⭐ 101,013 | 🐛 1,142 | 🌐 TypeScript | 📅 2026-10-02
 
 The modern web developer's platform for developing single page apps
 
@@ -922,7 +922,7 @@ Last tested on: 2022-04-30
 
 Website - <https://rxjs.dev>
 
-Source code repo - <https://github.com/ReactiveX/rxjs> ⭐ 31,697 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-08
+Source code repo - <https://github.com/ReactiveX/rxjs> ⭐ 31,696 | 🐛 189 | 🌐 TypeScript | 📅 2026-08-08
 
 Reactive Extensions Library for Javascript
 
@@ -1008,7 +1008,7 @@ Last tested on: 2022-04-15
 
 Website - <https://jestjs.io>
 
-Source code repo - <https://github.com/facebook/jest> ⭐ 45,458 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-02
+Source code repo - <https://github.com/facebook/jest> ⭐ 45,457 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-02
 
 Jest is delightful Javascript Testing Framework with a focus on simplicity
 
@@ -1038,7 +1038,7 @@ Last tested on: 2022-10-15
 
 Website - <https://mochajs.org>
 
-Source code repo - <https://github.com/mochajs/mocha> ⭐ 22,890 | 🐛 241 | 🌐 JavaScript | 📅 2026-10-01
+Source code repo - <https://github.com/mochajs/mocha> ⭐ 22,890 | 🐛 240 | 🌐 JavaScript | 📅 2026-10-03
 
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
 
@@ -1094,7 +1094,7 @@ Useful libraries for learning Machine Learning
 
 Website - <https://keras.io>
 
-Source code repo - <https://github.com/keras-team/keras-io> ⭐ 3,012 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-23
+Source code repo - <https://github.com/keras-team/keras-io> ⭐ 3,013 | 🐛 84 | 🌐 Jupyter Notebook | 📅 2026-09-23
 
 Simple. Flexible. Powerful. Deep learning for humans.
 
@@ -1122,7 +1122,7 @@ Last tested on: 2022-05-23
 
 Website - <https://numpy.org/>
 
-Source code repo - <https://github.com/numpy/numpy> ⭐ 32,898 | 🐛 2,250 | 🌐 Python | 📅 2026-10-02
+Source code repo - <https://github.com/numpy/numpy> ⭐ 32,901 | 🐛 2,251 | 🌐 Python | 📅 2026-10-02
 
 The fundamental package for scientific computing with Python
 
@@ -1188,7 +1188,7 @@ Last tested on: 2022-05-10
 
 Website - <https://pandas.pydata.org>
 
-Source code repo - <https://github.com/pandas-dev/pandas> ⭐ 49,897 | 🐛 2,445 | 🌐 Python | 📅 2026-10-02
+Source code repo - <https://github.com/pandas-dev/pandas> ⭐ 49,901 | 🐛 2,456 | 🌐 Python | 📅 2026-10-03
 
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language
 
@@ -1201,7 +1201,7 @@ tar czf "pandas.tar.gz" ./
 
 ### Direct links
 
-* [Workflow artifacts](https://github.com/pandas-dev/pandas/actions/workflows/docbuild-and-upload.yml) ⭐ 49,897 | 🐛 2,445 | 🌐 Python | 📅 2026-10-02
+* [Workflow artifacts](https://github.com/pandas-dev/pandas/actions/workflows/docbuild-and-upload.yml) ⭐ 49,901 | 🐛 2,456 | 🌐 Python | 📅 2026-10-03
 * [Latest PDF](https://pandas.pydata.org/docs/pandas.pdf)
 * [pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
@@ -1350,7 +1350,7 @@ All python related libraries
 
 Website - <https://pydantic-docs.helpmanual.io/>
 
-Source code repo - <https://github.com/samuelcolvin/pydantic> ⭐ 28,925 | 🐛 585 | 🌐 Python | 📅 2026-10-02
+Source code repo - <https://github.com/samuelcolvin/pydantic> ⭐ 28,926 | 🐛 584 | 🌐 Python | 📅 2026-10-02
 
 pydantic enforces type hints at runtime, and provides user friendly errors when data is invalid.
 
@@ -1378,7 +1378,7 @@ Last tested on: 2022-04-23
 
 Website - <https://requests.readthedocs.io/en/latest/>
 
-Source code repo - <https://github.com/psf/requests> ⭐ 54,372 | 🐛 242 | 🌐 Python | 📅 2026-09-28
+Source code repo - <https://github.com/psf/requests> ⭐ 54,371 | 🐛 242 | 🌐 Python | 📅 2026-09-28
 
 Requests is an elegant and simple HTTP library for Python, built for human beings.
 
@@ -1415,7 +1415,7 @@ Last tested on: 2022-06-23
 
 Website - <https://www.sqlalchemy.org/>
 
-Source code repo - <https://github.com/sqlalchemy/sqlalchemy> ⭐ 12,196 | 🐛 211 | 🌐 Python | 📅 2026-10-02
+Source code repo - <https://github.com/sqlalchemy/sqlalchemy> ⭐ 12,197 | 🐛 211 | 🌐 Python | 📅 2026-10-02
 
 SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
@@ -1543,7 +1543,7 @@ Last tested on: 2022-05-25
 
 Website - <https://fastapi.tiangolo.com/>
 
-Source code repo - <https://github.com/tiangolo/fastapi> ⭐ 102,769 | 🐛 84 | 🌐 Python | 📅 2026-10-02
+Source code repo - <https://github.com/tiangolo/fastapi> ⭐ 102,772 | 🐛 84 | 🌐 Python | 📅 2026-10-02
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
@@ -1570,7 +1570,7 @@ Last tested on: 2022-04-23
 
 Website - <https://flask.palletsprojects.com/en/2.1.x/>
 
-Source code repo - <https://github.com/pallets/flask> ⭐ 74,795 | 🐛 4 | 🌐 Python | 📅 2026-09-08
+Source code repo - <https://github.com/pallets/flask> ⭐ 74,796 | 🐛 4 | 🌐 Python | 📅 2026-09-08
 
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 
@@ -1745,7 +1745,7 @@ Last tested on: 2022-04-15
 
 Website - <https://developer.mozilla.org>
 
-Source code repo - <https://github.com/mdn/content> ⭐ 11,014 | 🐛 373 | 🌐 Markdown | 📅 2026-10-02
+Source code repo - <https://github.com/mdn/content> ⭐ 11,015 | 🐛 369 | 🌐 Markdown | 📅 2026-10-03
 
 Resources for Developers, by developers
 
@@ -1774,7 +1774,7 @@ Last tested on: 2022-09-17
 
 Website - <https://prettier.io>
 
-Source code repo - <https://github.com/prettier/prettier> ⭐ 52,314 | 🐛 1,464 | 🌐 JavaScript | 📅 2026-10-02
+Source code repo - <https://github.com/prettier/prettier> ⭐ 52,316 | 🐛 1,464 | 🌐 JavaScript | 📅 2026-10-03
 
 Opinionated code formatter
 
@@ -1838,4 +1838,4 @@ Follow me on [dev.to/naveennamani](https://dev.to/naveennamani).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

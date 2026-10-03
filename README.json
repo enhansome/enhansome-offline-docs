@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Github pages",
-                  "description": null,
+                  "description": "0xPolygon/matic.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -60,7 +60,7 @@
                 {
                   "node_type": "item",
                   "title": "Github pages",
-                  "description": null,
+                  "description": "maticnetwork/polygonmesh",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -101,7 +101,7 @@
                 {
                   "node_type": "item",
                   "title": "Workflow artifacts",
-                  "description": null,
+                  "description": "pandas-dev/pandas",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -110,11 +110,11 @@
                     "id": 858127,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T20:53:07Z",
-                    "open_issues": 2445,
+                    "last_commit": "2026-10-03T00:11:18Z",
+                    "open_issues": 2456,
                     "owner": "pandas-dev",
                     "repo": "pandas",
-                    "stars": 49897,
+                    "stars": 49901,
                     "topics": [
                       "alignment",
                       "data-analysis",
@@ -143,7 +143,7 @@
                 {
                   "node_type": "item",
                   "title": "github pages",
-                  "description": null,
+                  "description": "scipy/devdocs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:19.283Z",
+    "last_updated": "2026-10-03T05:04:26.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of scripts to build offline documentation for your favourite frameworks/libraries. Simply search, copy/paste the commands and enjoy.",
