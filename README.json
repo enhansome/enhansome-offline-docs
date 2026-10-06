@@ -110,8 +110,8 @@
                     "id": 858127,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-06T01:31:32Z",
-                    "open_issues": 2412,
+                    "last_commit": "2026-10-06T21:46:57Z",
+                    "open_issues": 2390,
                     "owner": "pandas-dev",
                     "repo": "pandas",
                     "stars": 49922,
@@ -152,7 +152,7 @@
                     "id": 44447229,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-10-06T09:54:48Z",
+                    "last_commit": "2026-10-06T21:19:04Z",
                     "open_issues": 0,
                     "owner": "scipy",
                     "repo": "devdocs",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:07:59.942Z",
+    "last_updated": "2026-10-06T21:47:38.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of scripts to build offline documentation for your favourite frameworks/libraries. Simply search, copy/paste the commands and enjoy.",
