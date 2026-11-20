@@ -19,7 +19,7 @@
                     "id": 145852835,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T17:26:01Z",
+                    "last_commit": "2026-11-20T16:23:01Z",
                     "open_issues": 10,
                     "owner": "0xPolygon",
                     "repo": "matic.js",
@@ -110,11 +110,11 @@
                     "id": 858127,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-19T23:13:45Z",
-                    "open_issues": 1811,
+                    "last_commit": "2026-11-20T17:43:26Z",
+                    "open_issues": 1804,
                     "owner": "pandas-dev",
                     "repo": "pandas",
-                    "stars": 50577,
+                    "stars": 50581,
                     "topics": [
                       "alignment",
                       "data-analysis",
@@ -152,7 +152,7 @@
                     "id": 44447229,
                     "language": "HTML",
                     "license": null,
-                    "last_commit": "2026-11-19T21:20:10Z",
+                    "last_commit": "2026-11-20T19:44:15Z",
                     "open_issues": 0,
                     "owner": "scipy",
                     "repo": "devdocs",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:41:15.248Z",
+    "last_updated": "2026-11-20T23:16:00.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of scripts to build offline documentation for your favourite frameworks/libraries. Simply search, copy/paste the commands and enjoy.",
